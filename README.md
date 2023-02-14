@@ -1,3 +1,2 @@
 # Hamming_Test
-Verilog module used to show effectiveness of hamming code\n
-Download microsoft word file "Hamming Code Implementation on FPGA"
+Download microsoft word file "Hamming Code Implementation on FPGA" to read about projcet
